@@ -22,7 +22,6 @@
 🔹 **Visualization:** Matplotlib, Seaborn, Power BI  
 🔹 **Machine Learning:** Scikit-learn, XGBoost  
 🔹 **Tools:** Jupyter Notebook, Git, GitHub  
-🔹 **AI & Analytics Tools:** (Add any libs used in Lunim project here)
 
 ---
 
