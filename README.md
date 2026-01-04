@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Tarek Mohamed El-Naggar
 
-<!--
-**tito644/tito644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Junior Data Scientist  
+📊 Passionate about data-driven decision making and real-world analytics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Strong background in **Data Analysis, EDA, and Machine Learning**
+- Experience working with **healthcare and retail datasets**
+- Interested in **business analytics and applied data science**
+- Continuously improving my skills through hands-on projects
+
+---
+
+## 🛠 Technical Skills
+
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Machine Learning:** Scikit-learn, XGBoost  
+- **Tools:** Jupyter Notebook, Git, GitHub  
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Stroke Risk Prediction System**  
+Machine learning project for predicting stroke risk with ROC-AUC ≈ 0.93  
+➡️ [View Project](https://github.com/tito644/stroke-risk-prediction)
+
+🔹 **Retail Shopping Trends Analysis (EDA)**  
+EDA project analyzing customer behavior and seasonal trends  
+➡️ [View Project](https://github.com/tito644/shopping-trends-analysis)
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/tarek-mohamed-el-naggar  
+- GitHub: https://github.com/tito644
