@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tarek Mohamed El-Naggar 👨‍💻📊
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Interested+in+Data+Analysis;Exploratory+Data+Analysis+(EDA);Machine+Learning+Applications;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+My+Github+Profile+.+.+.;I'm+Intersted+In+EDA+and+ML+.+.;Turning+Data+into+Insights+." alt="Typing SVG" />
 </p>
 
 ---
@@ -39,14 +39,6 @@ Exploratory analysis of customer behavior and seasonal trends
 🎬 **Lunim Film Suite — AI Data Analyst**  
 AI-powered data analysis tools tailored for film and entertainment analytics  
 ➡️ https://github.com/tito644/Lunim-Film-Suite-AI-Data-Analyst
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tito644&show_icons=true&theme=default" />
-</p>
 
 ---
 
