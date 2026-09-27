@@ -17,7 +17,6 @@
 
 ---
 
-```python
 ## 👨‍💻 About Me
 
 🎯 **AI-First Data Scientist** at **RISIDIO** · London, Remote  
@@ -28,7 +27,7 @@
 🌍 **Arabic** Native · **English** Upper-Intermediate  
 
 > *"Turn messy real-world data into calibrated, production-ready ML systems."*
-```
+
 
 - 🎯 Currently building ML systems for **film investment viability** at [RISIDIO](https://risidio.com) — predicting pre-release & post-release success with **90.7% accuracy**
 - 🏆 Built an **end-to-end WC 2026 match predictor** trained on 49,477 international matches with a live update engine
