@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tariq%20Elnaggar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-First%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+End-to-End+ML+Pipelines+%F0%9F%9A%80;XGBoost+%C2%B7+Prophet+%C2%B7+GradientBoosting+%C2%B7+FastAPI;From+Raw+Data+to+Deployed+Products+%F0%9F%8E%AF;AI-First+Data+Scientist+at+RISIDIO+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+End-to-End+ML+Pipelines;XGBoost+Prophet+GradientBoosting+FastAPI;From+Raw+Data+to+Deployed+Products;AI-First+Data+Scientist+at+RISIDIO" alt="Typing SVG" />
 </a>
 
 <br/>
