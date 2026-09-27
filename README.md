@@ -17,7 +17,7 @@
 
 ---
 
-👨‍💻 About Me
+"👨‍💻 About Me
 
 🎯 AI-First Data Scientist at RISIDIO (London, Remote)
 📍 Based in Mansoura, Egypt
