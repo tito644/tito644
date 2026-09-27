@@ -17,18 +17,19 @@
 
 ---
 
-"👨‍💻 About Me
+```python
+## 👨‍💻 About Me
 
-🎯 AI-First Data Scientist at RISIDIO (London, Remote)
-📍 Based in Mansoura, Egypt
-🔭 Currently building Film Investment Intelligence Systems for the entertainment industry
-🧠 Specialized in end-to-end ML pipelines — from raw messy data to deployed production-ready systems
-💡 Strong believer in time-based validation, no data leakage, and explainable ML
-🌍 Languages: Arabic (Native) · English (Upper-Intermediate)
+🎯 **AI-First Data Scientist** at **RISIDIO** · London, Remote  
+📍 Mansoura, Egypt 🇪🇬  
+🔭 Currently building **Film Investment Intelligence Systems** for the entertainment industry  
+🧠 Specialized in end-to-end ML pipelines — from raw data to deployed production systems  
+💡 Strong believer in **time-based validation**, no data leakage, and explainable ML  
+🌍 **Arabic** Native · **English** Upper-Intermediate  
 
-"Turn messy real-world data into calibrated, production-ready ML systems."
+> *"Turn messy real-world data into calibrated, production-ready ML systems."*
 ```
-"
+
 - 🎯 Currently building ML systems for **film investment viability** at [RISIDIO](https://risidio.com) — predicting pre-release & post-release success with **90.7% accuracy**
 - 🏆 Built an **end-to-end WC 2026 match predictor** trained on 49,477 international matches with a live update engine
 - 🛒 Completed a full **retail sales forecasting pipeline** (EDA → Prophet → XGBoost → Streamlit deployment) with **4.2% MAPE**
