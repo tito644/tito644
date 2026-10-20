@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tariq%20Elnaggar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-First%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tariq%20Elnaggar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-First%20Data%20Scientist%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+End-to-End+ML+Pipelines+%F0%9F%9A%80;XGBoost+%C2%B7+Prophet+%C2%B7+GradientBoosting+%C2%B7+FastAPI;From+Raw+Data+to+Deployed+Products+%F0%9F%8E%AF;AI-First+Data+Scientist+at+RISIDIO+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+End-to-End+ML+Pipelines+%F0%9F%9A%80;XGBoost+%C2%B7+Prophet+%C2%B7+GradientBoosting+%C2%B7+FastAPI;From+Raw+Data+to+Deployed+Apps+%F0%9F%8E%AF;AI-First+Data+Scientist+at+RISIDIO+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-mohamed-el-naggar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tariq--elnaggar.vercel.app-b4532a?style=for-the-badge&logo=vercel&logoColor=white)](https://tariq-elnaggar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-mohamed-el-naggar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tito644)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tariqelnaggar760@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=tito644&style=for-the-badge&color=0e75b6)](https://github.com/tito644)
+[![Profile Views](https://hits.sh/github.com/tito644.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=24292e)](https://hits.sh/github.com/tito644/)
+<!-- Fallback if the badge above ever fails to load:
+[![Profile Views](https://komarev.com/ghpvc/?username=tito644&label=Profile%20Views&style=for-the-badge&color=0e75b6)](https://github.com/tito644)
+-->
 
 </div>
 
@@ -21,18 +25,19 @@
 
 🎯 **AI-First Data Scientist** at **RISIDIO** · London, Remote  
 📍 Mansoura, Egypt 🇪🇬  
-🔭 Currently building **Film Investment Intelligence Systems** for the entertainment industry  
-🧠 Specialized in end-to-end ML pipelines — from raw data to deployed production systems  
-💡 Strong believer in **time-based validation**, no data leakage, and explainable ML  
+🔭 Currently contributing to **film investment analytics systems** for the entertainment industry  
+🧠 Specialized in end-to-end ML pipelines — from raw data to deployed apps  
+💡 I care about **time-based validation**, leakage audits, and honest evaluation  
 🌍 **Arabic** Native · **English** Upper-Intermediate  
 
-> *"Turn messy real-world data into calibrated, production-ready ML systems."*
+> *"Turn messy real-world data into calibrated, deployed ML systems."*
 
 
-- 🎯 Currently building ML systems for **film investment viability** at [RISIDIO](https://risidio.com) — predicting pre-release & post-release success with **90.7% accuracy**
+- 🎯 Contributing to ML systems for **film investment viability** at [RISIDIO](https://risidio.com) — built the initial prototype and continue developing it with the team
 - 🏆 Built an **end-to-end WC 2026 match predictor** trained on 49,477 international matches with a live update engine
 - 🛒 Completed a full **retail sales forecasting pipeline** (EDA → Prophet → XGBoost → Streamlit deployment) with **4.2% MAPE**
-- 🧠 Strong believer in **time-based validation**, no data leakage, and explainable ML
+- 🧪 Audit my own models: found **target leakage** in my film prototype and a **synthetic-data artifact** in my stroke project, then rebuilt on sound foundations
+- 🌱 Next up: **Film v2** (real revenue target, time-based split) and **SQL + BI** case studies
 
 ---
 
@@ -44,12 +49,14 @@
 
 ### ⚽ WC 2026 Match Predictor
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/tito644/wc2026-match-predictor)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://wc2026-match-predictor-worldcup.streamlit.app/)
 
 End-to-end ML pipeline predicting FIFA World Cup 2026 match outcomes.
 
 - 🗃️ Trained on **49,477** international matches (1872–2026)
-- 🤖 **Dual-model ensemble** — XGBoost + Poisson Regression
+- 🤖 **Dual-model ensemble** — XGBoost + Poisson Regression (**58–62%** accuracy)
 - 📊 **22 engineered features** across 9 categories
+- ⚖️ ELO gaps converted into **calibrated win probabilities**
 - 🔄 Live update engine via GitHub as free real-time data source
 - 🌍 **6-page Streamlit app** with Arabic/English support + Monte Carlo simulation
 
@@ -58,16 +65,17 @@ End-to-end ML pipeline predicting FIFA World Cup 2026 match outcomes.
 </td>
 <td width="50%">
 
-### 🎬 Film Investment Intelligence System
+### 🎬 Film Investment Intelligence System (v1 prototype)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/tito644/Film_Investment_Prediction)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://filminvestmentprediction-v6.streamlit.app/)
 
-ML pipeline predicting film investment success — built at RISIDIO.
+ML prototype scoring film investment viability — built at RISIDIO.
 
-- 🏆 **90.7% accuracy** · AUC **0.971** on 3,229 real films
-- 🔮 **6 pre-release signals** (trailer, social buzz, festival score)
+- 🧪 Prototype on TMDB data (**3,229 films**) with Gradient Boosting
+- 🔮 **13 features**, incl. pre-release indicators (trailer, social buzz, festival score)
 - 🤖 **4-layer Decision Intelligence**: confidence → self-critique → escalation → auto-brief
 - 🌐 **FastAPI backend** + bilingual Streamlit app (EN/AR)
-- ✅ Validated on Avatar, Dark Knight, Cats, Get Out, John Carter
+- ⚠️ **Lesson learned:** the v1 target was a proxy label (leakage), so its scores aren't real predictive accuracy — **v2 in progress** (revenue target, time-based split)
 
 `Python` `GradientBoosting` `FastAPI` `Streamlit` `TMDB API`
 
@@ -96,15 +104,15 @@ Complete retail forecasting pipeline across 45 stores.
 ### 🧠 Healthcare Stroke Risk Prediction
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-100000?style=flat-square&logo=github)](https://github.com/tito644/stroke-risk-prediction)
 
-End-to-end clinical ML pipeline — DEPI Initiative.
+End-to-end clinical ML pipeline — started in DEPI (2025), extended in 2026.
 
-- 🏥 Real clinical dataset with **class imbalance handling**
-- 📈 **ROC-AUC: 0.93** — optimized for recall (medical context)
+- 🏥 Real clinical dataset (**5,110 patients**) with **class imbalance handling**
+- 📈 **ROC-AUC: 0.837** — Logistic Regression on real data
+- 🔍 Exposed a **synthetic-data artifact** (R² ≈ 0.999) and rebuilt on real data
 - 🔧 Resolved overfitting from age-dominance via feature engineering
-- 📊 **Power BI dashboard** for trend analysis
-- 🧪 Compared: Logistic Regression · Random Forest · **XGBoost**
+- 🖥️ Bilingual **Flask & Streamlit** screening apps · **Power BI** dashboard
 
-`Python` `XGBoost` `Scikit-learn` `Power BI` `Pandas`
+`Python` `Scikit-learn` `Flask` `Streamlit` `Power BI`
 
 </td>
 </tr>
@@ -133,7 +141,6 @@ End-to-end clinical ML pipeline — DEPI Initiative.
 
 **Deployment & MLOps**
 
-[![Streamlit](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://streamlit.io)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -166,7 +173,7 @@ End-to-end clinical ML pipeline — DEPI Initiative.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tito644&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=tito644&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -181,16 +188,16 @@ End-to-end clinical ML pipeline — DEPI Initiative.
 | 🐍 Data Science Program | ALX Africa | 2026 |
 | 📈 Data Analysis with Python | IBM / Cognitive Class | 2025 |
 | 🔐 Python Essentials 1 | Cisco Networking Academy | 2025 |
+| 💻 Full Stack PHP (Summer Training) | Information Technology Institute (ITI) | 2022 |
 
 ---
 
 ## 💼 Experience
 
 ```
-🏢 AI-First Data Scientist    │  RISIDIO, London (Remote)       │  Jan 2026 – Present
-🎓 Data Scientist Trainee     │  DEPI Program                   │  Jun 2025 – Dec 2025
+🏢 AI-First Data Scientist    │  RISIDIO, London (Remote)         │  Jan 2026 – Present
+🎓 Data Scientist Trainee     │  DEPI Program                     │  Jun 2025 – Dec 2025
 🪖 IT & Data Analyst          │  Government Institution (Military)│  Mar 2024 – Mar 2025
-💻 Web Developer              │  Appen (Vocational Training)    │  Jan 2021 – Sep 2021
 ```
 
 ---
